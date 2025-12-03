@@ -1,0 +1,16 @@
+[
+  {
+    "id": "5de2802b-f285-4b0c-bb3f-a1f10f2176bd",
+    "filename": "staff_export.csv",
+    "filepath": "/home/azu/miki/secure-report-app/uploads/5de2802b-f285-4b0c-bb3f-a1f10f2176bd_staff_export.csv",
+    "passwordHash": "5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8",
+    "uploadedAt": "2025-12-02T14:45:06.908Z"
+  },
+  {
+    "id": "ec736cea-6044-4511-b5ed-96b52739a889",
+    "filename": "staff_export.csv",
+    "filepath": "/home/azu/miki/secure-report-app/uploads/ec736cea-6044-4511-b5ed-96b52739a889_staff_export.csv",
+    "folderId": "be0b328b-12bc-430f-9267-9ce384928158",
+    "uploadedAt": "2025-12-02T14:58:20.964Z"
+  }
+]
